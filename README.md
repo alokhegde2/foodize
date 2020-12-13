@@ -1,3 +1,3 @@
-# MovieDB Project
+# Foodize Project
 
-DBMS mini project
+The food ordering appliction for ordering food in restorents.
