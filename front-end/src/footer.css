@@ -1,0 +1,16 @@
+.footer {
+  margin-top: 50px !important;
+  background-color: #f7f7f7;
+}
+
+.footer > p {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.p2 {
+  text-align: center;
+  padding-top: 5px !important;
+  padding-bottom: 20px !important;
+}

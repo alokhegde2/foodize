@@ -1,0 +1,10 @@
+.App-card {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.banner {
+  padding-bottom: 30px;
+  /* min-height: 50px; */
+}
